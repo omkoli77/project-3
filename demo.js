@@ -1,2 +1,1 @@
-console.log("hello word");
-console.log("second line");
+console.log("demo js file update");
